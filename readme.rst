@@ -4,6 +4,7 @@ PETSHOP
 
 Petshop is an online pet management e-commerce web application. The users can view various pets up for sale and can add to cart and checkout. Admin can manage the orders and the pets.
 
+
 ###################
 It has many functionalites:
 ###################
@@ -14,3 +15,4 @@ It has many functionalites:
 
 * Elegant functionalities.
 
+* .sql file also provided.
