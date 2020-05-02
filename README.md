@@ -16,18 +16,32 @@ Petshop is an online pet management e-commerce web application. The users can vi
 
 ### Screenshots:
 
+Home Pages:
+
 ![Home Page](./Screenshots/HomePage.PNG)
 
 ![Home Page1](./Screenshots/HomePage1.png)
 
+Login Page:
+
 ![Login Page](./Screenshots/login_page.png)
+
+My Account:
 
 ![My Account](./Screenshots/my_account.png)
 
+Orders:
+
 ![My Orders](./Screenshots/my_orders.png)
+
+Cart:
 
 ![Your Cart.](./Screenshots/Your_Cart.png)
 
+Admin Dashboard:
+
 ![Admin Dashboard](./Screenshots/admin_dashboard.png)
+
+Add New Category:
 
 ![Admin Add New Category](./Screenshots/admin_add_new_category.png)
