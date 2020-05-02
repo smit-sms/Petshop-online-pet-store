@@ -17,7 +17,7 @@ Petshop is an online pet management e-commerce web application. The users can vi
 ### Screenshots:
 ![Home Page](./Screenshots/HomePage.png)
 
-![Home Page](./Screenshots/HomePage1.png)
+![Home Page1](./Screenshots/HomePage1.png)
 
 ![Login Page](./Screenshots/login_page.png)
 
