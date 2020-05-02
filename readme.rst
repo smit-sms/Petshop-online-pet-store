@@ -21,3 +21,5 @@ It has many functionalites:
 ###################
 Screenshots:
 ###################
+
+![LOGIN PAGE](./Screenshots/login_page.png)
